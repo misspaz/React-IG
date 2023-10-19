@@ -1,0 +1,13 @@
+.game-div{
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-title{
+    font-size: 20px;
+}
